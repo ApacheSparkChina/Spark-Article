@@ -1,0 +1,3 @@
+摘要： 概述 Kubernetes自推出以来，以其完善的集群配额、均衡、故障恢复能力，成为开源容器管理平台中的佼佼者。从设计思路上，Spark以开放Cluster Manager为理念，Kubernetes则以多语言、容器调度为卖点，二者的结合是顺理成章的。
+作者简介：无咎，阿里云EMR技术专家。目前专注于大数据开发平台建设。
+原文地址：https://yq.aliyun.com/articles/702055?spm=
