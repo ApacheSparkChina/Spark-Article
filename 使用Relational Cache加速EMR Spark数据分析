@@ -1,0 +1,2 @@
+摘要： Relational Cache的强大功能赋予了Spark更多的可能，通过Relational Cache，用户可以提前将任意关系型数据（Table/View/Dataset）cache到任意Spark支持的DataSource中，并支持灵活的cache数据组织方式，基于此，Relational Cache可以在诸多应用场景中帮助用户加速Spark数据分析。
+原文链接： https://yq.aliyun.com/articles/703046?spm=a2c4e.11153959.0.0.22ac7507TbY60v
