@@ -1,0 +1,2 @@
+摘要： 得益于 balanced Kafka reader，从 Kafka 消费的 Spark 应用程序现在可以横向扩展，并具有任意并行度。平衡分区算法很简单，并且已被证明非常有效。由于这些改进，用于摄取日志记录事件的 Spark streaming 作业可以处理比以前多一个数量级的事件。
+原文链接：https://yq.aliyun.com/articles/702952?spm=a2c4e.11153959.0.0.22ac7507TbY60v
