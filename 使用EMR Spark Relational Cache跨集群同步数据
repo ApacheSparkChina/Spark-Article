@@ -1,0 +1,3 @@
+摘要： Relational Cache是EMR Spark支持的一个重要特性，主要通过对数据进行预组织和预计算加速数据分析，提供了类似传统数据仓库物化视图的功能。除了用于提升数据处理速度，Relational Cache还可以应用于其他很多场景，本文主要介绍如何使用Relational Cache跨集群同步数据表。
+作者：李呈祥，EMR团队的高级技术专家，Apache Hive Committer， Apache Flink Committer，深度参与了Hadoop，Hive，Spark，Flink等开源项目的研发工作，对于SQL引擎，分布式系统有较为深入的了解和实践，目前主要专注于EMR产品中开源计算引擎的优化工作。
+原文链接：https://yq.aliyun.com/articles/704649
