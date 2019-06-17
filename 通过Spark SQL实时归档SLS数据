@@ -1,0 +1,11 @@
+原文链接：https://yq.aliyun.com/articles/705625
+
+作者：木艮，阿里云E-MapReduce开发工程师
+
+简介：
+作者在前一篇文章介绍过基于Spark SQL实现对HDFS操作的实时监控报警https://yq.aliyun.com/articles/697855。
+今天，再举例说明一下如何使用Spark SQL进行流式应用的开发。
+本文主要分成三部分：
+流式计算和SQL
+简要介绍Spark SQL流式开发语法
+实时归档SLS数据到HDFS
