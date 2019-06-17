@@ -1,0 +1,12 @@
+原文链接：https://yq.aliyun.com/articles/705476
+
+背景：
+EMR Spark提供的Relational Cache功能，可以通过对数据模型进行预计算和高效地存储，加速Spark SQL，为客户实现利用Spark SQL对海量数据进行即时查询的目的。
+Relational Cache的工作原理类似物化视图，在用户提交SQL语句时对语句进行分析，并选出可用的预计算结果来加速查询。
+为了实现高效地预计算结果复用，我们构建的预计算缓存一般都较为通用，因此对于用户query，还需进行进一步的计算方能获得最终结果。
+因此，如何快速地找出匹配的缓存，并构建出准确的新执行计划，就显得尤为重要。
+在Hive 3.x中支持的Materialized View，利用了Apache Calcite对执行计划进行重写。
+考虑到Spark SQL使用Catalyst进行执行计划优化，引入Calcite太重，因此EMR Spark中的Relational Cache实现了自己的Catalyst规则，用于重写执行计划。
+本文将介绍执行计划重写的相关内容。
+
+作者：王道远，花名健身， 阿里巴巴计算平台EMR技术专家。
