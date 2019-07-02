@@ -1,0 +1,14 @@
+作者：李呈祥，阿里巴巴计算平台事业部EMR团队高级技术专家，
+Apache Hive Committer， Apache Flink Committer，深度参与了Hadoop，Hive，Spark，Flink等开源项目的研发工作，
+对于SQL引擎，分布式系统有较为深入的了解和实践，目前主要专注于EMR产品中开源计算引擎的优化工作。
+
+摘要：将每个关联结果都作为relational cache构建代价太大，并不现实，我们需要找到一种方式可以通过单个Relational Cache支持优化多个关联查询的方式
+从而在加速用户查询的同时，减少创建和更新relational cache的代价。Record Preserve Join是支持这种优化的非常有效的方式
+
+
+原文链接：https://yq.aliyun.com/articles/706758?spm=a2c4e.11153959.0.0.6ac07507Opb9I4
+
+
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
