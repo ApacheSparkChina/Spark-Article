@@ -1,0 +1,18 @@
+原文链接 
+https://yq.aliyun.com/articles/707792
+
+
+作者：
+关文选，花名云魄，阿里云E-MapReduce 高级开发工程师，专注于流式计算，Spark Contributor
+
+
+
+摘要：
+使用Spark Streaming SQL可以很方便的对事件数据中的时间字段进行处理，
+同时Spark Streaming SQL提供的时间窗口函数可以将事件时间按照一定的时间区间对数据进行统计操作。
+本文通过讲解一个统计用户在过去5秒钟内点击网页次数的案例，介绍如何使用Spark Streaming SQL对事件时间进行操作。
+
+
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
