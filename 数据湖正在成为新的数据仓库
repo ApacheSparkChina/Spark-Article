@@ -1,0 +1,21 @@
+原文链接 
+https://www.infoworld.com/article/3405443/the-data-lake-is-becoming-the-new-data-warehouse.html?upd=1561666042410
+
+编译：
+诚历，阿里巴巴计算平台事业部 EMR 技术专家，Apache Sentry PMC，Apache Commons Committer，目前从事开源大数据存储和优化方面的工作。
+
+
+
+
+摘要：
+新一代数据仓库实际上是数据湖，对那些用于构建和训练机器学习模型的清洗，整合和验证的数据进行管理。
+例如，去年秋天在Amazon re：Invent 大会上，亚马逊网络服务公布了AWS Lake Formation。这种新的托管服务的明确目的是简化和加速安全数据湖的设置。
+然而，AWS Lake Formation 拥有云数据仓库的所有特点，尽管AWS并没有这样称呼它，实际上已经提供了一个面向决策支持应用程序的经典数据仓库。
+
+编译原文链接：
+https://yq.aliyun.com/articles/708051
+
+
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
