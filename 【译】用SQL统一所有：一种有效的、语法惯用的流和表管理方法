@@ -1,0 +1,19 @@
+原文链接 
+https://yq.aliyun.com/articles/708924
+
+编译：
+余根茂，阿里巴巴计算平台事业部EMR团队的技术专家，参与了Hadoop，Spark，Kafka等开源项目的研发工作。
+目前主要专注于EMR流式计算产品的研发工作。
+
+
+
+
+摘要：
+在数据处理方面，似乎最终都会回归到SQL上！
+今天选择的这篇文章作者来自于Apache Beam，Apache Calcite以及Apache Flink的专家们，阐述了他们在构建流式处理SQL接口的经验。
+最终整理了一些SQL标准的扩展建议。
+
+
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
