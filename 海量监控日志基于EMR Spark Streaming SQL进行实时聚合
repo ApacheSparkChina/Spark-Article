@@ -1,0 +1,13 @@
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://yq.aliyun.com/articles/712650
+
+作者：
+伯箫，阿里云高级开发工程师。现在在阿里云表格存储团队，负责管控系统的开发，对NOSQL类数据库系统有一些了解。
+
+背景
+从EMR-3.21.0 版本开始将提供Spark Streaming SQL的预览版功能，支持使用SQL来开发流式分析作业。结果数据可以实时写入Tablestore。
+本文以LogHub为数据源，收集ECS上的日志数据，通过Spark Streaming SQL进行聚合后，将流计算结果数据实时写入Tablestore，展示一个简单的日志监控场景。
