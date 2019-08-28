@@ -1,0 +1,15 @@
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://yq.aliyun.com/articles/716066
+
+作者：
+辛庸，阿里巴巴计算平台事业部 EMR 技术专家。Apache Hadoop，Apache Spark commiter。
+对 Hadoop、Spark、Hive、Druid 等大数据组件有深入研究。目前从事大数据云化相关工作，专注于计算引擎、存储结构、数据库事务等内容。
+
+背景
+本文就 Vertica 的数据模型、存储、执行引擎以及这几个方面与 C-Store 的区别进行了简单的介绍。
+总的来说，Vertica 是一个纯正的列式存储数据库，为此，Vertica 设计实现了 projection 这一数据模型，并围绕该模型设计实现了一套大数据分析管理引擎。
+在 NoSQL 风起云涌的时代，Vertica 能够凭借自身良好的设计，在广大 NoSQL 方案包围圈里争得一席之地，且没有开源优势，充分说明了它的实力。
