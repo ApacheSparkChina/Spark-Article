@@ -1,0 +1,11 @@
+钉钉群号：23109202
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+
+ 摘要：
+ Koalas项目基于Apache Spark实现了pandas DataFrame API，从而使数据科学家能够更有效率的处理大数据。
+ 一份代码可以同时在pandas(用于测试，小数据集)和Spark(用于分布式datasets)两个平台上运行。
+
+ 原文链接：
+ https://developer.aliyun.com/article/716803
