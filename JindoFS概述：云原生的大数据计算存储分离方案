@@ -1,0 +1,17 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+标题：
+JindoFS概述：云原生的大数据计算存储分离方案
+
+
+原文链接：
+https://developer.aliyun.com/article/720081
+
+作者：
+诚历，阿里巴巴计算平台事业部 EMR 技术专家，Apache Sentry PMC，Apache Commons Committer，目前从事开源大数据存储和优化方面的工作。
+
+摘要：
+ JindoFS 是一套新的云原生的数据湖解决方案。在 JindoFS 之前，云上客户主要使用 HDFS 和 OSS/S3 作为大数据存储。
+ HDFS 是 Hadoop 原生的存储系统，10 年来，HDFS 已经成为大数据生态的存储标准，但是我们也可以看到 HDFS 虽然不断优化，但是 JVM 的瓶颈也始终无法突破。
