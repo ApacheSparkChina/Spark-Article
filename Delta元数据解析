@@ -1,0 +1,10 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+作者：宋军，花名嵩林，阿里云EMR技术专家。从事Spark内核优化，对SparkCore/SprakSQL有深入了解，Spark Contributor
+
+原文链接：https://developer.aliyun.com/article/736709
+
+简介：
+本文介绍Delta的元数据管理相关内容，包括文件夹结构，元数据类型以及元数据产生流程等
