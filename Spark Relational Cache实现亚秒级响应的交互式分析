@@ -1,0 +1,12 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/725413
+
+
+简介
+阿里云E-MapReduce (EMR) 是构建在阿里云云服务器 ECS 上的开源 Hadoop、Spark、HBase、Hive、Flink 生态大数据 PaaS 产品。
+提供用户在云上使用开源技术建设数据仓库、离线批处理、在线流式处理、即时查询、机器学习等场景下的大数据解决方案。在2019杭州云栖大会大数据生态专场上，
+阿里巴巴技术专家王道远为大家分享了阿里云EMR的Spark Relational Cache实现亚秒级响应的交互式分析。
