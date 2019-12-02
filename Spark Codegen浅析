@@ -1,0 +1,12 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+作者：周克勇，花名一锤，阿里巴巴计算平台事业部EMR团队技术专家，大数据领域技术爱好者，
+对Spark有浓厚兴趣和一定的了解，目前主要专注于EMR产品中开源计算引擎的优化工作。
+
+原文链接：https://developer.aliyun.com/article/727450
+
+简介：Codegen是Spark Runtime优化性能的关键技术，核心在于动态生成java代码、即时compile和加载，把解释执行转化为编译执行。
+Spark Codegen分为Expression级别和WholeStage级别，
+分别针对表达式计算和全Stage计算做代码生成，都取得了数量级的性能提升。本文浅析Spark Codegen技术原理。
