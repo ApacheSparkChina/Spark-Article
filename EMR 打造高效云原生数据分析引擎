@@ -1,0 +1,12 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/725861
+
+
+简介
+EMR-Jindo是EMR推出的云原生 OLAP 引擎。凭借该引擎，EMR成为第一个云上TPC-DS成绩提交者。经过持续不断地内核优化，
+目前基于最新 EMR-Jindo 引擎的 TPC-DS 成绩又有了大幅提高，达到了3615071，成本降低到 0.76 CNY。在2019杭州云栖大会大数据技术专场，阿里云阿里巴巴计算平台事业部 EMR 技术专家辛庸向大家分享了如何基于开源体系如何打造云上数据分析平台E-MarReduce（EMR）、
+EMR-Jindo 引擎背后的相关技术以及以 EMR-Jindo 为核心的云上大数据架构方案。
