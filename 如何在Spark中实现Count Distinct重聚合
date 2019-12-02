@@ -1,0 +1,14 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+作者：
+	李呈祥(司麟) ，阿里巴巴计算平台事业部EMR团队的高级技术专家，Apache Hive Committer， Apache Flink Committer，
+  深度参与了Hadoop，Hive，Spark，Flink等开源项目的研发工作，对于SQL引擎，分布式系统有较为深入的了解和实践，
+  目前主要专注于EMR产品中开源计算引擎的优化工作。
+
+原文链接：https://developer.aliyun.com/article/723521
+
+简介：
+背景 Count Distinct是SQL查询中经常使用的聚合统计方式，用于计算非重复结果的数目。由于需要去除重复结果，Count Distinct的计算通常非常耗时。
+为了支持更快速的非重复结果统计Spark还基于Hyperloglog实现了Approximate Count Distinct，用于统计非重复结果的近似值，支持。
