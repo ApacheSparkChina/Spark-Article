@@ -1,0 +1,12 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/731887
+
+作者
+王卓然 花名琸然 阿里云存储服务技术专家
+
+简介
+本文介绍如何在E-MapReduce中通过Tablestore Spark Streaming Source将TableStore中的数据实时导入到Delta Lake中。
