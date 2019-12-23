@@ -1,0 +1,13 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/740175?spm=a2c6h.12873581.0.0.71671566C80QaL&groupCode=apachespark
+
+编译：
+诚历，阿里巴巴计算平台事业部 EMR 技术专家，Apache Sentry PMC，Apache Commons Committer，目前从事开源大数据存储和优化方面的工作。
+
+ 简介：
+ Apache Spark作为新一代的数仓技术的代表，我们能够在 Spark 中使用早期的数据建模技术。这使得Spark data pineline 更加有效。
+ 在上一篇文章中，我们讨论了如何处理单个日期列的数据分析，有些数据集需要针对多个日期列分析数据，本篇将讨论如何处理多个日期。
