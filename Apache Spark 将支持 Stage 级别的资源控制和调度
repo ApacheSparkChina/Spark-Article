@@ -1,0 +1,14 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/742456?spm=a2c6h.12873581.0.0.7cc11566T4gu4v&groupCode=apachespark
+
+作者：
+过往记忆
+
+
+ 简介：
+ 我们需要对不同 Stage 设置不同的资源。
+ 但是目前的 Spark 不支持这种细粒度的资源配置，导致我们不得不在作业启动的时候设置大量的资源，从而导致资源可能浪费，特别是在机器学习的场景下。
