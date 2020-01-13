@@ -1,0 +1,11 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/740597?spm=a2c6h.12873581.0.0.7cc11566T4gu4v&groupCode=apachespark
+
+作者：梁世威，同盾科技平台工具部研发工程师，从事开源大数据计算/存储和优化方面的工作。
+
+ 简介：
+此文是关于公司在 Delta Lake 上线之前对Spark任务写入数据产生碎片文件优化的一些实践。
