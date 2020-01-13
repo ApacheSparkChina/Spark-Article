@@ -1,0 +1,13 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+原文链接：
+https://developer.aliyun.com/article/740716?spm=a2c6h.12873581.0.0.7cc11566T4gu4v&groupCode=apachespark
+
+作者：
+李万雪， eBay软件开发工程师，2017年毕业于上海交通大学。目前负责日志在大数据平台上的分析和opentracing在ebay日志平台的实现。
+
+ 简介：
+ eBay每天产生PB量级的CAL日志，其数据量每天都在增加。对于日益增长的数据量，Hadoop MapReduce job的优化将会大大节省计算资源。
+ 本文将分享eBay团队如何对这些Hadoop job进行优化，希望为开发者带来启发，解决Hadoop MapReduce（MR）job实践中存在的问题。
