@@ -1,0 +1,11 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+
+原文链接：
+https://developer.aliyun.com/article/741428?spm=a2c6h.12873581.0.0.4c73454dwpXgt1&groupCode=aliyunemr
+
+简介：
+在流式数据处理过程中，E-MapReduce经常需要在Kafka与其他系统间进行数据同步或者在Kafka集群间进行数据迁移。
+本节向您介绍如何在E-MapReduce上通过Kafka Connect快速的实现Kafka集群间的数据同步或者数据迁移。
