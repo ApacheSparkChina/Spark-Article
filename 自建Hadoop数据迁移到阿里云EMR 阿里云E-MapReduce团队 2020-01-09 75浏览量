@@ -1,0 +1,13 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+作者：
+云魁、连辙
+
+原文链接：
+https://developer.aliyun.com/article/742132?spm=a2c6h.12873581.0.0.4c73454dwpXgt1&groupCode=aliyunemr
+
+简介：
+客户在IDC或者公有云环境自建Hadoop集群，数据集中保存在HDFS文件系统用于数据分析任务。客户在决定上云之后，
+会将自建Hadoop集群的数据迁移到阿里云自建部署架构图 Hadoop集群或者EMR集群。本实践方案提供安全和低成本的HDFS数据迁移方案。
